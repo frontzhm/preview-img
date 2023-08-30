@@ -14,7 +14,8 @@ previewImg('https://blog-huahua.oss-cn-beijing.aliyuncs.com/blog/code/typora-use
 // previewImg(img元素)
 ```
 
-效果图：![preview_img](https://blog-huahua.oss-cn-beijing.aliyuncs.com/blog/code/preview_img.gif)
+效果图：![preview_img](https://blog-huahua.oss-cn-beijing.aliyuncs.com/blog/code/preview_img.png)
+![preview_img](https://blog-huahua.oss-cn-beijing.aliyuncs.com/blog/code/preview_img.gif)
 
 ## 参数设置
 
