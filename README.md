@@ -3,7 +3,7 @@
 安装
 
 ```shell
-npm i preview-img
+npm i preview-img-js
 ```
 
 使用
